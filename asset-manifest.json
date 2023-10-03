@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Count_Down_Task/static/css/main.b5ea5486.css",
+    "main.js": "/Count_Down_Task/static/js/main.493643f7.js",
+    "static/media/fireworks.jpg": "/Count_Down_Task/static/media/fireworks.704ae2e1e464e8f456d8.jpg",
+    "index.html": "/Count_Down_Task/index.html",
+    "main.b5ea5486.css.map": "/Count_Down_Task/static/css/main.b5ea5486.css.map",
+    "main.493643f7.js.map": "/Count_Down_Task/static/js/main.493643f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ea5486.css",
+    "static/js/main.493643f7.js"
+  ]
+}
